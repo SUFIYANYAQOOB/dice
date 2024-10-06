@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://ih1.redbubble.net/image.3869854497.8238/flat,750x,075,f-pad,750x1000,f8f8f8.jpg);
+    width: 100%;
+
+}
+.dice {
+    margin-left: 50%;
+    margin-top: 10%;
+}
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border-color: rgb(255, 153, 0);
+    font-family: sans-serif;
+}
+#Result{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
